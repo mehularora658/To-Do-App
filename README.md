@@ -7,9 +7,9 @@ This is a simple to-do application built with React JS. It allows users to add t
 To get started with this application, you'll need to have Node.js and npm (Node Package Manager) installed on your computer.
 
 1. Clone the repository to your local machine using 
-    #### `git clone https://github.com/your-username/your-project.git`
+    #### `git clone https://github.com/mehularora658/To-Do-App.git`
 2. Navigate to the project directory by running 
-    #### `cd your-project`
+    #### `cd To-Do-App`
 3. Install the required dependencies by running 
     #### `npm install`
 4. Start the development server by running 
