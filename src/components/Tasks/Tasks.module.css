@@ -1,0 +1,26 @@
+.task{
+  margin: 10px  10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aliceblue;
+  padding: 10px 10px ;
+  display: flex;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  width: 400px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.seemorebtn{
+  cursor: pointer;
+}
+@media screen and (max-width: 440px){
+  .task{
+    width:350px;
+  }
+}
+@media screen and (max-width: 350px){
+  .task{
+    width:300px;
+  }
+}

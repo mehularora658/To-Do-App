@@ -1,0 +1,23 @@
+.todo{
+  color: rgb(24, 127, 244);
+}
+.navBar{
+    margin:10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.gitHubBtn a{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding:10px;
+    border-radius: 20px;
+}
+img{
+    margin-right: 5px;
+}
